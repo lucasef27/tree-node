@@ -11,6 +11,6 @@ This project demonstrates an algorithm that builds a binary tree from an integer
 ### Project Structure
 
 /ConsoleApp
-├── Program.cs # Main execution
-├── TreeNode.cs # Node definition
-└── TreeBuilder.cs # Tree-building logic
+- Program.cs # Main execution
+- TreeNode.cs # Node definition
+- TreeBuilder.cs # Tree-building logic
